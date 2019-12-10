@@ -9,6 +9,10 @@
 
 ## Project Functionality 
 
+# FileRead.java
+  - Reads, parses, and adds CSV file contents to graph
+  - Uses Buffered Reader & File Reader to parse json 
+
 # Graph.java
   - Graph representation as HashMap of String--> ArrayList<String>
   - Has recursive BFS that traverses graph to find shortest path between two actors 
